@@ -1,0 +1,2 @@
+Coloque aqui o logotipo oficial (logo.svg e, opcionalmente, logo-claro.svg para fundos escuros)
+e preencha brand.logo / brand.logoLight em src/data/site.ts.

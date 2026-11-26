@@ -1,0 +1,12 @@
+{
+  "name": "Haras Manoel Leão",
+  "short_name": "Manoel Leão",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ],
+  "theme_color": "#0c1a13",
+  "background_color": "#fbf8f2",
+  "display": "standalone",
+  "lang": "pt-BR"
+}

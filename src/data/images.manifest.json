@@ -1,0 +1,128 @@
+{
+  "/images/ilustrativas/cavalos-no-pasto.webp": {
+    "widths": [
+      640,
+      1280,
+      2000
+    ],
+    "width": 2000,
+    "height": 1333
+  },
+  "/images/ilustrativas/crianca-com-cavalos.webp": {
+    "widths": [
+      640,
+      1280,
+      2000
+    ],
+    "width": 2000,
+    "height": 1333
+  },
+  "/images/ilustrativas/vinculo-com-cavalo.webp": {
+    "widths": [
+      640,
+      1280,
+      2000
+    ],
+    "width": 2000,
+    "height": 2500
+  },
+  "/images/instagram/Df-9KLhBweb.webp": {
+    "widths": [
+      580
+    ],
+    "width": 580,
+    "height": 640
+  },
+  "/images/instagram/Df8X10VBOfF.webp": {
+    "widths": [
+      585
+    ],
+    "width": 585,
+    "height": 640
+  },
+  "/images/instagram/DfxFbuHhmW5.webp": {
+    "widths": [
+      361
+    ],
+    "width": 361,
+    "height": 640
+  },
+  "/images/instagram/Dfzsu5DNiRw.webp": {
+    "widths": [
+      585
+    ],
+    "width": 585,
+    "height": 640
+  },
+  "/images/instagram/DgDFklCh9MB.webp": {
+    "widths": [
+      361
+    ],
+    "width": 361,
+    "height": 640
+  },
+  "/images/instagram/DgH5UlZBdMz.webp": {
+    "widths": [
+      512
+    ],
+    "width": 512,
+    "height": 640
+  },
+  "/images/instagram/DgLLtOSB_nM.webp": {
+    "widths": [
+      585
+    ],
+    "width": 585,
+    "height": 640
+  },
+  "/images/instagram/DYeh0E6FROp.webp": {
+    "widths": [
+      640
+    ],
+    "width": 640,
+    "height": 640
+  },
+  "/images/maps/area-verde.webp": {
+    "widths": [
+      640,
+      1280,
+      2000
+    ],
+    "width": 2000,
+    "height": 1500
+  },
+  "/images/maps/comida-rustica.webp": {
+    "widths": [
+      640,
+      876
+    ],
+    "width": 876,
+    "height": 960
+  },
+  "/images/maps/pista-ao-ar-livre.webp": {
+    "widths": [
+      640,
+      1280,
+      2000
+    ],
+    "width": 2000,
+    "height": 1500
+  },
+  "/images/maps/salao-eventos.webp": {
+    "widths": [
+      640,
+      1280,
+      2000
+    ],
+    "width": 2000,
+    "height": 1335
+  },
+  "/images/maps/varanda-restaurante.webp": {
+    "widths": [
+      640,
+      1179
+    ],
+    "width": 1179,
+    "height": 1169
+  }
+}

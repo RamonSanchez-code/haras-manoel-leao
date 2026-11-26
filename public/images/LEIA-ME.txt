@@ -1,0 +1,3 @@
+NÃO edite esta pasta à mão: ela é gerada por `npm run images` a partir de /assets-src.
+Coloque as fotos originais em /assets-src (qualquer subpasta), rode `npm run images`
+e use o caminho gerado em src/data/site.ts (ex.: '/images/maps/salao-eventos.webp').
