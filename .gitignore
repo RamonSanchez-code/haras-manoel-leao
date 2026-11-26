@@ -27,3 +27,9 @@ dist-ssr
 .env
 .env.*
 !.env.example
+
+# Ferramentas locais do editor/assistente
+.claude/
+
+# Fotos de terceiros sem autorização de uso
+assets-src/_visitantes-aguardando-autorizacao/

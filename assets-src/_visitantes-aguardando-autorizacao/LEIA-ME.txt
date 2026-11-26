@@ -1,5 +1,0 @@
-Fotos enviadas por VISITANTES ao Google Maps (não pelo Haras). Elas têm direitos autorais dos autores
-(nome no arquivo) e NÃO estão publicadas no site.
-
-Para usar: peça autorização ao autor (ou substitua por fotos próprias do Haras), mova o arquivo
-para assets-src/maps/, rode `npm run images` e aponte o `src` em src/data/site.ts.
